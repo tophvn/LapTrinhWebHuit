@@ -1,0 +1,33 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<Buoi4.Models.User1>
+
+@{
+    ViewBag.Title = "User List";
+}
+<h2>User List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Họ Tên</th>
+            <th>Địa Chỉ</th>
+            <th>Avatar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.Name</td>
+                <td>@user.Address</td>
+                <td>
+                    <img src="@Url.Content("~/images/avatar/" + user.Avatar)" width="50" />
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

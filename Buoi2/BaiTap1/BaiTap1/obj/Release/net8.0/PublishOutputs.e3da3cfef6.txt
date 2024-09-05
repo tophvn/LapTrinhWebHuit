@@ -1,0 +1,7 @@
+D:\Data\Lập trình web\Buoi2\BaiTap1\BaiTap1\obj\Release\net8.0\PubTmp\Out\BaiTap1.exe
+D:\Data\Lập trình web\Buoi2\BaiTap1\BaiTap1\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Data\Lập trình web\Buoi2\BaiTap1\BaiTap1\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Data\Lập trình web\Buoi2\BaiTap1\BaiTap1\obj\Release\net8.0\PubTmp\Out\BaiTap1.dll
+D:\Data\Lập trình web\Buoi2\BaiTap1\BaiTap1\obj\Release\net8.0\PubTmp\Out\BaiTap1.deps.json
+D:\Data\Lập trình web\Buoi2\BaiTap1\BaiTap1\obj\Release\net8.0\PubTmp\Out\BaiTap1.runtimeconfig.json
+D:\Data\Lập trình web\Buoi2\BaiTap1\BaiTap1\obj\Release\net8.0\PubTmp\Out\BaiTap1.pdb

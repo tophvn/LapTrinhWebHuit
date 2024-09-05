@@ -1,0 +1,13 @@
+D:\Data\Lập trình web\Buoi4\Buoi4\Buoi4\obj\Release\net8.0\PubTmp\Out\Buoi4.exe
+D:\Data\Lập trình web\Buoi4\Buoi4\Buoi4\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Data\Lập trình web\Buoi4\Buoi4\Buoi4\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Data\Lập trình web\Buoi4\Buoi4\Buoi4\obj\Release\net8.0\PubTmp\Out\Buoi4.dll
+D:\Data\Lập trình web\Buoi4\Buoi4\Buoi4\obj\Release\net8.0\PubTmp\Out\Buoi4.deps.json
+D:\Data\Lập trình web\Buoi4\Buoi4\Buoi4\obj\Release\net8.0\PubTmp\Out\Buoi4.runtimeconfig.json
+D:\Data\Lập trình web\Buoi4\Buoi4\Buoi4\obj\Release\net8.0\PubTmp\Out\Buoi4.pdb
+D:\Data\Lập trình web\Buoi4\Buoi4\Buoi4\obj\Release\net8.0\PubTmp\Out\System.Data.SqlClient.dll
+D:\Data\Lập trình web\Buoi4\Buoi4\Buoi4\obj\Release\net8.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+D:\Data\Lập trình web\Buoi4\Buoi4\Buoi4\obj\Release\net8.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+D:\Data\Lập trình web\Buoi4\Buoi4\Buoi4\obj\Release\net8.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+D:\Data\Lập trình web\Buoi4\Buoi4\Buoi4\obj\Release\net8.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Data\Lập trình web\Buoi4\Buoi4\Buoi4\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

@@ -1,0 +1,881 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BaiTap1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BaiTap1.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\css\\color1.css",
+      "PackagePath": "staticwebassets\\assets\\css\\color1.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\css\\site.css",
+      "PackagePath": "staticwebassets\\assets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\1.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\1.gif"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\app\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\app\\1.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\app\\app-storw.png",
+      "PackagePath": "staticwebassets\\assets\\images\\app\\app-storw.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\app\\play-store.png",
+      "PackagePath": "staticwebassets\\assets\\images\\app\\play-store.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\banner\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\1.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\banner\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\2.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\banner\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\3.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\banner\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\4.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\banner\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\5.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\blog\\multi-category\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\multi-category\\1.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\blog\\multi-category\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\multi-category\\2.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\blog\\multi-category\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\multi-category\\3.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\blog\\multi-category\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\multi-category\\4.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\blog\\multi-category\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\multi-category\\5.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\blog\\multi-category\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\multi-category\\6.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\blog\\pattern.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\pattern.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\call-us.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\call-us.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\category\\layout-1\\bag.png",
+      "PackagePath": "staticwebassets\\assets\\images\\category\\layout-1\\bag.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\category\\layout-1\\fashion.png",
+      "PackagePath": "staticwebassets\\assets\\images\\category\\layout-1\\fashion.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\category\\layout-1\\furniture.png",
+      "PackagePath": "staticwebassets\\assets\\images\\category\\layout-1\\furniture.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\category\\layout-1\\light.png",
+      "PackagePath": "staticwebassets\\assets\\images\\category\\layout-1\\light.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\category\\layout-1\\mobile.png",
+      "PackagePath": "staticwebassets\\assets\\images\\category\\layout-1\\mobile.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\category\\layout-1\\razer.png",
+      "PackagePath": "staticwebassets\\assets\\images\\category\\layout-1\\razer.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\featured\\featured1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured\\featured1.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\featured\\featured2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured\\featured2.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\featured\\featured3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured\\featured3.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\featured\\featured4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured\\featured4.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\featured\\featured5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured\\featured5.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\featured\\featured6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured\\featured6.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\home-banner\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\home-banner\\7.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\home-banner\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\home-banner\\8.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\icon\\american-express.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\american-express.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\icon\\discover.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\discover.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\icon\\l-1\\search.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\l-1\\search.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\icon\\l-1\\shopping-cart.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\l-1\\shopping-cart.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\icon\\l-1\\user.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\l-1\\user.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\icon\\l-1\\wishlist.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\l-1\\wishlist.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\icon\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\logo.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\icon\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\mastercard.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\icon\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\paypal.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\icon\\settings.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\settings.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\icon\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\visa.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\insta\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\insta\\1.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\insta\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\insta\\10.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\insta\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\insta\\2.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\insta\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\insta\\3.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\insta\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\insta\\4.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\insta\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\insta\\5.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\insta\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\insta\\6.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\insta\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\insta\\7.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\insta\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\insta\\8.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\insta\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\insta\\9.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\1.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\10.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\11.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\12.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\13.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\14.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\15.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\16.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\17.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\18.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\19.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\2.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\20.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\21.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\21.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\22.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\22.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\23.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\23.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\24.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\24.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\25.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\25.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\26.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\26.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\27.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\27.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\28.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\28.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\29.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\29.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\3.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\30.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\30.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\31.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\31.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\32.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\32.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\33.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\33.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\34.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\34.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\35.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\35.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\36.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\36.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\37.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\37.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\4.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\5.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\6.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\7.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\8.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\landing-page\\demo\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing-page\\demo\\9.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\left.png",
+      "PackagePath": "staticwebassets\\assets\\images\\left.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\logo\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\1.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\logo\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\2.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\logo\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\3.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\logo\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\4.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\logo\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\5.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\logo\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\6.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\logo\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\7.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\logo\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\8.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\main-banner-bg2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\main-banner-bg2.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\may-like\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\may-like\\1.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\may-like\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\may-like\\2.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\may-like\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\may-like\\3.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\may-like\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\may-like\\4.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\mega-menu\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\1.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\mega-menu\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\2.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\mega-menu\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\3.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\mega-menu\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\4.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\mega-menu\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\5.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\mega-menu\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\6.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\payment_cart.png",
+      "PackagePath": "staticwebassets\\assets\\images\\payment_cart.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\1.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\10.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\11.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\13.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\14.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\15.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\19.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\2.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\20.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\21.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\21.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\22.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\22.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\23.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\23.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\25.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\25.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\27.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\27.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\29.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\29.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\3.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\31.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\31.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\4.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\6.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\8.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\product\\p-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\p-1.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\right.png",
+      "PackagePath": "staticwebassets\\assets\\images\\right.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\shadow.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shadow.png"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\side-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\side-banner.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\testimonial\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\1.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\images\\testimonial\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\2.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\js\\bootstrap-notify.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-notify.min.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\js\\menu.js",
+      "PackagePath": "staticwebassets\\assets\\js\\menu.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\js\\modal.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modal.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\js\\site.js",
+      "PackagePath": "staticwebassets\\assets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\js\\slick.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\assets\\js\\timer.js",
+      "PackagePath": "staticwebassets\\assets\\js\\timer.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Data\\Lập trình web\\Buoi2\\BaiTap1\\BaiTap1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BaiTap1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BaiTap1.props",
+      "PackagePath": "build\\BaiTap1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BaiTap1.props",
+      "PackagePath": "buildMultiTargeting\\BaiTap1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BaiTap1.props",
+      "PackagePath": "buildTransitive\\BaiTap1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,131 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Buoi3</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Buoi3_2.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+    <style>
+        body {
+            display: flex;
+            min-height: 100vh;
+            background-color: #f8f9fa;
+        }
+
+        .sidebar {
+            min-width: 250px;
+            background-color: #343a40;
+            color: white;
+            padding: 20px;
+            transition: transform 0.3s ease;
+            position: fixed; 
+            height: 100%; 
+            overflow-y: auto; 
+        }
+
+            .sidebar.hidden {
+                transform: translateX(-100%);
+            }
+
+            .sidebar a {
+                color: white;
+                padding: 10px;
+                border-radius: 5px;
+                display: block;
+                transition: background-color 0.3s;
+            }
+
+                .sidebar a:hover {
+                    background-color: #495057;
+                }
+
+        .main-content {
+            flex-grow: 1;
+            padding: 20px;
+            margin-left: 250px; 
+            transition: margin-left 0.3s ease; 
+        }
+
+            .main-content.hidden {
+                margin-left: 0;
+            }
+
+        .toggle-btn {
+            cursor: pointer;
+            background: none;
+            border: none;
+            color: white;
+            font-size: 24px;
+        }
+
+        .toggle-btn-container {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            z-index: 1000;
+            background-color: #343a40;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        footer {
+            background-color: #f8f9fa;
+            padding: 10px 0;
+            text-align: center;
+            border-top: 1px solid #dee2e6;
+        }
+
+            footer .text-muted {
+                color: #6c757d;
+            }
+    </style>
+</head>
+<body>
+    <div class="toggle-btn-container">
+        <button class="toggle-btn" onclick="toggleSidebar()">
+            <i class="fas fa-home"></i>
+        </button>
+    </div>
+    <div class="sidebar" id="sidebar">
+        <br />
+        <br /><br />
+        <ul class="nav flex-column">
+            <li class="nav-item">
+                <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Login">Login</a>
+            </li>
+        </ul>
+    </div>
+    <div class="main-content" id="mainContent">
+        <header class="d-flex justify-content-between align-items-center mb-3">
+            <h1>@ViewData["Title"]</h1>
+        </header>
+        <main role="main">
+            @RenderBody()
+        </main>
+        <footer>
+            <div class="text-muted py-2">
+                &copy; 2024 - Buoi3
+            </div>
+        </footer>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script>
+        function toggleSidebar() {
+            const sidebar = document.getElementById('sidebar');
+            const mainContent = document.getElementById('mainContent');
+            sidebar.classList.toggle('hidden');
+            mainContent.classList.toggle('hidden');
+        }
+    </script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

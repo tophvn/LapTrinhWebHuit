@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data\\L\u1EADp tr\u00ECnh web\\Buoi2\\BaiTap1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF3F7F0-1D5B-4A47-AB29-C11BD71F3C04}|BaiTap1\\BaiTap1.csproj|d:\\data\\l\u1EADp tr\u00ECnh web\\buoi2\\baitap1\\baitap1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AF3F7F0-1D5B-4A47-AB29-C11BD71F3C04}|BaiTap1\\BaiTap1.csproj|solutionrelative:baitap1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF3F7F0-1D5B-4A47-AB29-C11BD71F3C04}|BaiTap1\\BaiTap1.csproj|d:\\data\\l\u1EADp tr\u00ECnh web\\buoi2\\baitap1\\baitap1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AF3F7F0-1D5B-4A47-AB29-C11BD71F3C04}|BaiTap1\\BaiTap1.csproj|solutionrelative:baitap1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Data\\L\u1EADp tr\u00ECnh web\\Buoi2\\BaiTap1\\BaiTap1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BaiTap1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Data\\L\u1EADp tr\u00ECnh web\\Buoi2\\BaiTap1\\BaiTap1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BaiTap1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T11:10:23.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Data\\L\u1EADp tr\u00ECnh web\\Buoi2\\BaiTap1\\BaiTap1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTap1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Data\\L\u1EADp tr\u00ECnh web\\Buoi2\\BaiTap1\\BaiTap1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BaiTap1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEcEAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T06:12:39.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
