@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P/Rf259bV/w=",
+  "dgSpecHash": "BAKM8+eXJzY=",
   "success": true,
-  "projectFilePath": "D:\\Data\\Lập trình web\\Buoi4\\Buoi4\\Buoi4\\Buoi4.csproj",
+  "projectFilePath": "D:\\Data\\Lap Trinh Web\\Buoi4\\Buoi4\\Buoi4\\Buoi4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hoang\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\hoang\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

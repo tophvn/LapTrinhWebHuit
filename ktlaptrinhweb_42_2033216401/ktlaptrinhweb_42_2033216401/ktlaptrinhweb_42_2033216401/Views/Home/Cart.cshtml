@@ -1,0 +1,43 @@
+﻿@model List<ktlaptrinhweb_42_2033216401.Models.Sach>
+
+<h2>Giỏ hàng</h2>
+
+@if (Model.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Ảnh bìa</th>
+                <th>Tên sách</th>
+                <th>Giá</th>
+                <th>Số lượng</th>
+                <th>Thao tác</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        <img src="@Url.Content("~/AnhBia/" + item.AnhBia)" alt="Ảnh bìa của @item.TenSach" style="height: 100px; object-fit: cover;" />
+                    </td>
+                    <td>@item.TenSach</td>
+                    <td>@item.GiaBan</td>
+                    <td>1</td> 
+                    <td>
+                        <form method="post" action="@Url.Action("RemoveFromCart", "Home")">
+                            <input type="hidden" name="maSach" value="@item.MaSach" />
+                            <button type="submit" class="btn btn-danger">Xóa</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Giỏ hàng của bạn hiện đang trống.</p>
+}
+
+<a href="@Url.Action("Index", "Home")" class="btn btn-primary">Quay lại trang chủ</a>

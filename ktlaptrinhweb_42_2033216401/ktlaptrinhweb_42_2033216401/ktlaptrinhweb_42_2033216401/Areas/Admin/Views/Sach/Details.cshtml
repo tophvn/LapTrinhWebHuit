@@ -1,0 +1,90 @@
+﻿@model ktlaptrinhweb_42_2033216401.Models.Sach
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div class="container">
+    <h4>Sach Details</h4>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.TenSach)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.TenSach)
+        </dd>
+
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.GiaBan)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.GiaBan)
+        </dd>
+
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.MoTa)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.MoTa)
+        </dd>
+
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.NgayCapNhat)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.NgayCapNhat)
+        </dd>
+
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.AnhBia)
+        </dt>
+        <dd class="col-md-10">
+            @if (Model.AnhBia != null && Model.AnhBia.Length > 0)
+            {
+                <img src="@Url.Content("~/AnhBia/" + Model.AnhBia)" class="img-fluid" alt="Book Cover" />
+            }
+            else
+            {
+                <span>No Image Available</span>
+            }
+        </dd>
+
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.SoLuongTon)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.SoLuongTon)
+        </dd>
+
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.Moi)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.Moi)
+        </dd>
+
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.ChuDe.TenChuDe)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.ChuDe.TenChuDe)
+        </dd>
+
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.NhaXuatBan.TenNXB)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.NhaXuatBan.TenNXB)
+        </dd>
+    </dl>
+
+    <div class="form-actions">
+        <a href="@Url.Action("Edit", new { id = Model.MaSach })" class="btn btn-warning btn-sm">Edit</a>
+        <a href="@Url.Action("Index")" class="btn btn-secondary btn-sm">Back to List</a>
+    </div>
+</div>

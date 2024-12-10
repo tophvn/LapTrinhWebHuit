@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Buoi5.Models.Sach>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Danh sách sách</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <h1>Danh sách sách</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>MaSach</th>
+                <th>TenSach</th>
+                <th>GiaBan</th>
+                <th>MoTa</th>
+                <th>NgayCapNhat</th>
+                <th>AnhBia</th>
+                <th>SoLuongTon</th>
+                <th>MaChuDe</th>
+                <th>MaNXB</th>
+                <th>Moi</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null)
+            {
+                foreach (var sach in Model)
+                {
+                    <tr>
+                        <td>@sach.MaSach</td>
+                        <td>@sach.TenSach</td>
+                        <td>@sach.GiaBan</td>
+                        <td>@sach.MoTa</td>
+                        <td>@sach.NgayCapNhat?.ToString("dd/MM/yyyy")</td>
+                        <td>
+                            @if (!string.IsNullOrEmpty(sach.AnhBia))
+                            {
+                                <img src="~/images/AnhBia/@sach.AnhBia" alt="@sach.TenSach" style="width: 100px; height: auto;" />
+                            }
+                        </td>
+                        <td>@sach.SoLuongTon</td>
+                        <td>@sach.MaChuDe</td>
+                        <td>@sach.MaNXB</td>
+                        <td>@sach.Moi</td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="10">Không có dữ liệu để hiển thị.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

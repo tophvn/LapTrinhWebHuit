@@ -1,0 +1,68 @@
+﻿@model IEnumerable<ktlaptrinhweb_42_2033216401.Models.Sach>
+
+@{
+    ViewBag.Title = "Trang Chủ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center">Thông tin Sinh viên</h2>
+<p><strong>Mã sinh viên:</strong> 2033216401</p>
+<p><strong>Họ tên:</strong> Nguyễn Hoàng Hải</p>
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Message"]
+    </div>
+}
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="@Url.Content("~/AnhBia/" + item.AnhBia)" class="card-img-top" alt="Ảnh bìa của @item.TenSach" style="height: 200px; object-fit: cover;">
+                <div class="card-body">
+                    <p><strong>Mã sách: </strong>@item.MaSach</p>
+                    <h5 class="card-title">@item.TenSach</h5>
+                    <p><strong>Giá: </strong>@Html.DisplayFor(modelItem => item.GiaBan)</p>
+                    <form method="post" action="@Url.Action("AddToCart", "Home")">
+                        <input type="hidden" name="maSach" value="@item.MaSach" />
+                        <button type="submit" class="btn btn-primary btn-block">Thêm vào giỏ hàng</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+
+<div class="pagination justify-content-center mt-4">
+    @if (ViewBag.CurrentPage > 1)
+    {
+        <a href="@Url.Action("Index", new { page = ViewBag.CurrentPage - 1 })" class="page-link">&laquo; Trang trước</a>
+    }
+    else
+    {
+        <span class="page-link disabled">&laquo; Trang trước</span>
+    }
+
+    @for (int i = 1; i <= ViewBag.TotalPages; i++)
+    {
+        if (i == ViewBag.CurrentPage)
+        {
+            <span class="page-item active"><span class="page-link">@i</span></span>
+        }
+        else
+        {
+            <a href="@Url.Action("Index", new { page = i })" class="page-item"><span class="page-link">@i</span></a>
+        }
+    }
+
+    @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+    {
+        <a href="@Url.Action("Index", new { page = ViewBag.CurrentPage + 1 })" class="page-link">Trang sau &raquo;</a>
+    }
+    else
+    {
+        <span class="page-link disabled">Trang sau &raquo;</span>
+    }
+</div>

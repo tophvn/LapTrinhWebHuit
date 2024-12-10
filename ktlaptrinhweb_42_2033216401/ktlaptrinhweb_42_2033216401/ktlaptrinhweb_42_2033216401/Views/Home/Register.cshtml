@@ -1,0 +1,50 @@
+﻿@model ktlaptrinhweb_42_2033216401.Models.KhachHang
+
+@{
+    ViewBag.Title = "Đăng ký";
+}
+
+<h2>Đăng ký tài khoản mới</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.HoTen)
+        @Html.TextBoxFor(m => m.HoTen, new { @class = "form-control", placeholder = "Họ và tên" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.TaiKhoan)
+        @Html.TextBoxFor(m => m.TaiKhoan, new { @class = "form-control", placeholder = "Tên tài khoản" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.MatKhau)
+        @Html.PasswordFor(m => m.MatKhau, new { @class = "form-control", placeholder = "Mật khẩu" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Email)
+        @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "Email" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.DienThoai)
+        @Html.TextBoxFor(m => m.DienThoai, new { @class = "form-control", placeholder = "Số điện thoại" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.DiaChi)
+        @Html.TextBoxFor(m => m.DiaChi, new { @class = "form-control", placeholder = "Địa chỉ" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Đăng ký</button>
+
+    if (ViewBag.ErrorMessage != null)
+    {
+        <div class="alert alert-danger" style="margin-top: 10px;">
+            @ViewBag.ErrorMessage
+        </div>
+    }
+}
+
+<p>
+    Đã có tài khoản? <a href="@Url.Action("Login", "Home")">Đăng nhập ngay</a>
+</p>

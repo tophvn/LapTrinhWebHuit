@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Data\\Lap Trinh Web\\Buoi9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{331EF9BF-148B-4118-BD66-79354291DFAE}|Buoi9\\Buoi9.csproj|f:\\data\\lap trinh web\\buoi9\\buoi9\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331EF9BF-148B-4118-BD66-79354291DFAE}|Buoi9\\Buoi9.csproj|solutionrelative:buoi9\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Application\\Visual Studio 2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331EF9BF-148B-4118-BD66-79354291DFAE}|Buoi9\\Buoi9.csproj|f:\\data\\lap trinh web\\buoi9\\buoi9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{331EF9BF-148B-4118-BD66-79354291DFAE}|Buoi9\\Buoi9.csproj|solutionrelative:buoi9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331EF9BF-148B-4118-BD66-79354291DFAE}|Buoi9\\Buoi9.csproj|f:\\data\\lap trinh web\\buoi9\\buoi9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331EF9BF-148B-4118-BD66-79354291DFAE}|Buoi9\\Buoi9.csproj|solutionrelative:buoi9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331EF9BF-148B-4118-BD66-79354291DFAE}|Buoi9\\Buoi9.csproj|f:\\data\\lap trinh web\\buoi9\\buoi9\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331EF9BF-148B-4118-BD66-79354291DFAE}|Buoi9\\Buoi9.csproj|solutionrelative:buoi9\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331EF9BF-148B-4118-BD66-79354291DFAE}|Buoi9\\Buoi9.csproj|f:\\data\\lap trinh web\\buoi9\\buoi9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331EF9BF-148B-4118-BD66-79354291DFAE}|Buoi9\\Buoi9.csproj|solutionrelative:buoi9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "D:\\Application\\Visual Studio 2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "D:\\Application\\Visual Studio 2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAGQWAAAAAAAAAAAvwMgUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-17T07:50:48.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Data\\Lap Trinh Web\\Buoi9\\Buoi9\\appsettings.json",
+              "RelativeDocumentMoniker": "Buoi9\\appsettings.json",
+              "ToolTip": "F:\\Data\\Lap Trinh Web\\Buoi9\\Buoi9\\appsettings.json",
+              "RelativeToolTip": "Buoi9\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T07:34:03.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Data\\Lap Trinh Web\\Buoi9\\Buoi9\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi9\\Program.cs",
+              "ToolTip": "F:\\Data\\Lap Trinh Web\\Buoi9\\Buoi9\\Program.cs",
+              "RelativeToolTip": "Buoi9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:28:54.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "F:\\Data\\Lap Trinh Web\\Buoi9\\Buoi9\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Buoi9\\Models\\KhachHang.cs",
+              "ToolTip": "F:\\Data\\Lap Trinh Web\\Buoi9\\Buoi9\\Models\\KhachHang.cs",
+              "RelativeToolTip": "Buoi9\\Models\\KhachHang.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:23:51.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "F:\\Data\\Lap Trinh Web\\Buoi9\\Buoi9\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Buoi9\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "F:\\Data\\Lap Trinh Web\\Buoi9\\Buoi9\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Buoi9\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T07:22:08.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Data\\Lap Trinh Web\\Buoi9\\Buoi9\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Buoi9\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Data\\Lap Trinh Web\\Buoi9\\Buoi9\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Buoi9\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:21:37.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

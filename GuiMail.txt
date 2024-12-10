@@ -1,0 +1,33 @@
+Gui email trong asp net mvc
+su dung gmail
+- Dang nhap vao gmail
+- chon tai khoan
+- Bat chuc nang bao mat 2 lop
+- Tao mat khau rieng cho ung dung
+- Su dung email gmail nay va mat khau tuong ung de gui email
+
+using System.Net.Mail;
+
+ public ActionResult Sendmail()
+        {
+             MailMessage mail = new MailMessage();
+                mail.To.Add("hung.tranvan@stu.edu.vn");//nugoi nhan
+                mail.From = new MailAddress("hung.seu@gmail.com");//mail nguoi gui
+                mail.Subject = "Subject email";
+                string Body = "Noi dung email";
+                mail.Body = Body;
+                mail.IsBodyHtml = true;
+                SmtpClient smtp = new SmtpClient();
+                smtp.Host = "smtp.gmail.com";
+                smtp.Port = 587;//
+                smtp.UseDefaultCredentials = false;
+            //Thay the dong nay
+                smtp.Credentials = new System.Net.NetworkCredential("hung.seu@gmail.com", "....."); // Enter seders User name and password  
+               
+            smtp.EnableSsl = true;
+                smtp.Send(mail);
+               
+
+                return Content("Sent!");
+           
+        } 

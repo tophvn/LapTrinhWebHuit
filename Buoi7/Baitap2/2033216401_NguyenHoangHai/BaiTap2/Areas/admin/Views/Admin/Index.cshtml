@@ -1,0 +1,81 @@
+﻿@model IEnumerable<BaiTap2.Models.Category1>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <h2 class="mt-4">Danh sách chủ đề</h2>
+
+    <div class="mb-3">
+        <input type="text" id="new-category-name" class="form-control" placeholder="Nhập tên chủ đề mới..." />
+        <button id="add-category" class="btn btn-primary mt-2">Thêm chủ đề</button>
+    </div>
+
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Mã Chủ Đề</th>
+                <th>Tên Chủ Đề</th>
+                <th>Thao Tác</th>
+            </tr>
+        </thead>
+        <tbody id="category-table">
+            @foreach (var category in Model)
+            {
+                <tr id="category-@category.MaChuDe">
+                    <td>@category.MaChuDe</td>
+                    <td>
+                        <input type="text" value="@category.TenChuDe" class="form-control edit-category" data-id="@category.MaChuDe" />
+                    </td>
+                    <td>
+                        <button class="btn btn-warning btn-sm save-category">Lưu</button>
+                        <button class="btn btn-danger btn-sm delete-category" data-id="@category.MaChuDe">Xóa</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#add-category').on('click', function () {
+            const newCategoryName = $('#new-category-name').val();
+            if (newCategoryName) {
+                $.post('@Url.Action("AddCategory", "Admin", new { area = "admin" })', { tenChuDe: newCategoryName }, function (response) {
+                    location.reload();
+                }).fail(function (jqXHR) {
+                    alert(jqXHR.responseText);
+                });
+            } else {
+                alert("Vui lòng nhập tên chủ đề.");
+            }
+        });
+
+        $('.save-category').on('click', function () {
+            const row = $(this).closest('tr');
+            const maChuDe = row.find('.edit-category').data('id');
+            const tenChuDe = row.find('.edit-category').val();
+
+            $.post('@Url.Action("UpdateCategory", "Admin", new { area = "admin" })', { maChuDe: maChuDe, tenChuDe: tenChuDe }, function (response) {
+                location.reload();
+            }).fail(function (jqXHR) {
+                alert(jqXHR.responseText);
+            });
+        });
+
+        $('.delete-category').on('click', function () {
+            const maChuDe = $(this).data('id');
+
+            if (confirm("Bạn có chắc chắn muốn xóa không?")) {
+                $.post('@Url.Action("Delete", "Admin", new { area = "admin" })', { id: maChuDe }, function (response) {
+                    location.reload();
+                }).fail(function (jqXHR) {
+                    alert(jqXHR.responseText);
+                });
+            }
+        });
+    });
+</script>

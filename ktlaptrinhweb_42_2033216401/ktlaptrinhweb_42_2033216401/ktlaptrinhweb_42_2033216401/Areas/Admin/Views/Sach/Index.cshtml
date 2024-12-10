@@ -1,0 +1,61 @@
+﻿@model IEnumerable<ktlaptrinhweb_42_2033216401.Models.Sach>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="mb-4">Danh sách sách</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-primary" })
+</p>
+
+<div class="table-responsive">
+    <table class="table table-striped table-bordered table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.TenSach)</th>
+                <th>@Html.DisplayNameFor(model => model.GiaBan)</th>
+                <th>@Html.DisplayNameFor(model => model.MoTa)</th>
+                <th>@Html.DisplayNameFor(model => model.NgayCapNhat)</th>
+                <th>@Html.DisplayNameFor(model => model.AnhBia)</th>
+                <th>@Html.DisplayNameFor(model => model.SoLuongTon)</th>
+                <th>@Html.DisplayNameFor(model => model.Moi)</th>
+                <th>@Html.DisplayNameFor(model => model.ChuDe.TenChuDe)</th>
+                <th>@Html.DisplayNameFor(model => model.NhaXuatBan.TenNXB)</th>
+                <th>Thao tác</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.TenSach)</td>
+                    <td>@Html.DisplayFor(modelItem => item.GiaBan)</td>
+                    <td>@Html.DisplayFor(modelItem => item.MoTa)</td>
+                    <td>@Html.DisplayFor(modelItem => item.NgayCapNhat)</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(item.AnhBia))
+                        {
+                            <img src="@Url.Content("~/AnhBia/" + item.AnhBia)" alt="Ảnh bìa sách" class="img-thumbnail" style="max-width: 100px; max-height: 150px; object-fit: cover;" />
+                        }
+                        else
+                        {
+                            <span>Chưa có ảnh</span>
+                        }
+                    </td>
+                    <td>@Html.DisplayFor(modelItem => item.SoLuongTon)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Moi)</td>
+                    <td>@Html.DisplayFor(modelItem => item.ChuDe.TenChuDe)</td>
+                    <td>@Html.DisplayFor(modelItem => item.NhaXuatBan.TenNXB)</td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.MaSach }, new { @class = "btn btn-warning btn-sm" })
+                        @Html.ActionLink("Details", "Details", new { id = item.MaSach }, new { @class = "btn btn-info btn-sm" })
+                        @Html.ActionLink("Delete", "Delete", new { id = item.MaSach }, new { @class = "btn btn-danger btn-sm" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

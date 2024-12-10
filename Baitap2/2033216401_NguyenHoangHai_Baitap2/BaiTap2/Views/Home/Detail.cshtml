@@ -1,0 +1,27 @@
+﻿@model BaiTap2.Models.Book
+
+@{
+    ViewBag.Title = "Chi Tiết Sách";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Chi Tiết Sách</h2>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card border-0 shadow-sm">
+                <img src="~/AnhBia/@Model.AnhBia" class="card-img-top img-fluid" alt="Ảnh bìa" style="object-fit: contain; max-height: 300px; width: 100%;" />
+            </div>
+        </div>
+        <div class="col-md-8">
+            <div class="card border-0 shadow-sm p-4">
+                <h3 class="card-title mb-3">@Model.TenSach</h3>
+                <p class="card-text"><strong>Giá Bán:</strong> @Model.GiaBan.ToString("C")</p>
+                <p class="card-text"><strong>Mô Tả:</strong> @Model.MoTa</p>
+                <p class="card-text"><strong>Ngày Cập Nhật:</strong> @Model.NgayCapNhat.ToShortDateString()</p>
+            </div>
+        </div>
+    </div>
+
+    <a href="@Url.Action("Index", "Home")" class="btn btn-primary mt-4">Quay lại</a>
+</div>

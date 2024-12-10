@@ -1,0 +1,93 @@
+﻿@model ktlaptrinhweb_42_2033216401.Models.Sach
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+
+<div class="container">
+    <h4>Sach Details</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.TenSach)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.TenSach)
+        </dd>
+
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.GiaBan)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.GiaBan)
+        </dd>
+
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.MoTa)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.MoTa)
+        </dd>
+
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.NgayCapNhat)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.NgayCapNhat)
+        </dd>
+
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.AnhBia)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.AnhBia)
+        </dd>
+
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.SoLuongTon)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.SoLuongTon)
+        </dd>
+
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.Moi)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.Moi)
+        </dd>
+
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.ChuDe.TenChuDe)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.ChuDe.TenChuDe)
+        </dd>
+
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.NhaXuatBan.TenNXB)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.NhaXuatBan.TenNXB)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions">
+            <button type="submit" class="btn btn-danger">Delete</button>
+            <a href="@Url.Action("Index")" class="btn btn-secondary">Back to List</a>
+        </div>
+    }
+</div>
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>

@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Lập trình web\\Buoi4\\Buoi4\\Buoi4\\Buoi4.csproj",
+      "projectUniqueName": "D:\\Data\\Lap Trinh Web\\Buoi4\\Buoi4\\Buoi4\\Buoi4.csproj",
       "projectName": "Buoi4",
-      "projectPath": "D:\\Data\\Lập trình web\\Buoi4\\Buoi4\\Buoi4\\Buoi4.csproj",
+      "projectPath": "D:\\Data\\Lap Trinh Web\\Buoi4\\Buoi4\\Buoi4\\Buoi4.csproj",
       "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Lập trình web\\Buoi4\\Buoi4\\Buoi4\\obj\\",
+      "outputPath": "D:\\Data\\Lap Trinh Web\\Buoi4\\Buoi4\\Buoi4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BaiTap2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BaiTap2.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000001.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000001.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000002.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000002.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000003.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000003.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000004.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000004.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000005.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000005.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000006.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000006.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000007.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000007.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000008.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000008.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000009.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000009.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000010.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000010.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000011.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000011.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000012.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000012.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000013.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000013.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000014.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000014.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000015.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000015.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000016.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000016.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000017.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000017.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000018.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000018.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000019.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000019.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000020.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000020.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000021.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000021.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000022.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000022.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000023.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000023.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000024.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000024.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000025.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000025.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000026.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000026.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000027.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000027.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000028.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000028.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000029.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000029.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\AnhBia\\000030.jpg",
+      "PackagePath": "staticwebassets\\AnhBia\\000030.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\avatar.jpg",
+      "PackagePath": "staticwebassets\\avatar.jpg"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Data\\Lap Trinh Web\\Buoi7\\Baitap2\\2033216401_NguyenHoangHai\\BaiTap2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BaiTap2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BaiTap2.props",
+      "PackagePath": "build\\BaiTap2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BaiTap2.props",
+      "PackagePath": "buildMultiTargeting\\BaiTap2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BaiTap2.props",
+      "PackagePath": "buildTransitive\\BaiTap2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

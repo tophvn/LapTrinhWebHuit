@@ -1,0 +1,116 @@
+﻿@model BaiTap2.Models.BookViewModel
+@{
+    ViewBag.Title = "Trang chủ";
+}
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+@{
+    var searchString = ViewContext.HttpContext.Request.Query["searchString"].ToString();
+    var categoryId = ViewContext.HttpContext.Request.Query["categoryId"].ToString();
+    var publisherId = ViewContext.HttpContext.Request.Query["publisherId"].ToString();
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Danh sách Sách</h2>
+
+    <form method="get" action="@Url.Action("Index")" class="mb-4">
+        <div class="row g-3">
+            <div class="col-md-8">
+                <input type="text" name="searchString" class="form-control" placeholder="Tìm kiếm sách..." value="@searchString" />
+            </div>
+            <div class="col-md-4">
+                <button type="submit" class="btn btn-primary w-100">Tìm kiếm</button>
+            </div>
+        </div>
+        <div class="row g-3 mt-3">
+            <!-- Danh mục Dropdown -->
+            <div class="col-md-6">
+                <label for="dropdownMenuButtonCategory" class="form-label fw-bold">Danh mục</label>
+                <div class="dropdown">
+                    <button class="btn btn-secondary dropdown-toggle w-100" type="button" id="dropdownMenuButtonCategory" data-bs-toggle="dropdown" aria-expanded="false">
+                        @if (!string.IsNullOrEmpty(categoryId))
+                        {
+                            @Model.Categories.FirstOrDefault(c => c.MaChuDe.ToString() == categoryId)?.TenChuDe
+                        }
+                        else
+                        {
+                            <text>Chọn danh mục</text>
+                        }
+                    </button>
+                    <ul class="dropdown-menu w-100" aria-labelledby="dropdownMenuButtonCategory">
+                        <li><a class="dropdown-item" href="@Url.Action("Index", new { categoryId = "" })">-- Chọn danh mục --</a></li>
+                        @if (Model.Categories != null)
+                        {
+                            @foreach (var category in Model.Categories)
+                            {
+                                <li><a class="dropdown-item" href="@Url.Action("Index", new { categoryId = category.MaChuDe })">@category.TenChuDe</a></li>
+                            }
+                        }
+                    </ul>
+                </div>
+            </div>
+            <!-- Nhà xuất bản Dropdown -->
+            <div class="col-md-6">
+                <label for="dropdownMenuButtonPublisher" class="form-label fw-bold">Nhà xuất bản</label>
+                <div class="dropdown">
+                    <button class="btn btn-secondary dropdown-toggle w-100" type="button" id="dropdownMenuButtonPublisher" data-bs-toggle="dropdown" aria-expanded="false">
+                        @if (!string.IsNullOrEmpty(publisherId))
+                        {
+                            @Model.Publishers.FirstOrDefault(p => p.MaNXB.ToString() == publisherId)?.TenNXB
+                        }
+                        else
+                        {
+                            <text>Chọn nhà xuất bản</text>
+                        }
+                    </button>
+                    <ul class="dropdown-menu w-100" aria-labelledby="dropdownMenuButtonPublisher">
+                        <li><a class="dropdown-item" href="@Url.Action("Index", new { publisherId = "" })">-- Chọn nhà xuất bản --</a></li>
+                        @if (Model.Publishers != null)
+                        {
+                            @foreach (var publisher in Model.Publishers)
+                            {
+                                <li><a class="dropdown-item" href="@Url.Action("Index", new { publisherId = publisher.MaNXB })">@publisher.TenNXB</a></li>
+                            }
+                        }
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </form>
+
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+        @if (Model.Books != null && Model.Books.Any())
+        {
+            @foreach (var book in Model.Books)
+            {
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="~/AnhBia/@book.AnhBia" class="card-img-top" alt="Ảnh bìa" style="height: 250px; object-fit: cover;" />
+                        <div class="card-body d-flex flex-column">
+                            <h5 class="card-title text-truncate" style="max-height: 3.6em; overflow: hidden;">@book.TenSach</h5>
+                            <p class="card-text">
+                                Giá: @book.GiaBan<br />
+                                Ngày cập nhật: @book.NgayCapNhat.ToShortDateString()
+                            </p>
+                            <div class="mt-auto">
+                                <a href="@Url.Action("Detail", "Home", new { id = book.MaSach })" class="btn btn-info w-100">Chi tiết</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <div class="col-12">
+                <p>Không có sách nào được tìm thấy.</p>
+            </div>
+        }
+    </div>
+</div>
